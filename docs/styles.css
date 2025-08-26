@@ -1,22 +1,88 @@
-$brand-blue: #3366ff; $bg-beige: #faf3e7; $text: #111111; $muted: #5a5a5a;
-body { background: $bg-beige; color: $text; font-family: "Open Sans", system-ui, -apple-system, Arial, sans-serif; line-height: 1.6; }
-h1,h2,h3 { color: $brand-blue; text-transform: uppercase; font-family: "Montserrat", sans-serif; font-weight:700; margin-top:2.2rem; }
-.accent-serif { font-family: "Playfair Display", serif !important; font-style: italic; color: $brand-blue; }
-.subhead { font-weight:600; color:$muted; text-transform:uppercase; letter-spacing:1px; margin-bottom:.25rem; }
-.grid { display:grid; gap:1.2rem; } .grid-2{ grid-template-columns: repeat(2, minmax(0,1fr)); } .grid-3{ grid-template-columns: repeat(3, minmax(0,1fr)); }
-.card-img img, .hero img { width:100%; border-radius:10px; display:block; }
-.spacer { height:1rem; } .cta{ background:#fff; border-radius:10px; padding:1.2rem; box-shadow:0 6px 30px rgba(0,0,0,.06); border-left:6px solid $brand-blue; }
-.hero { display:grid; grid-template-columns:220px 1fr; gap:1.2rem; align-items:center; } @media (max-width:800px) { .hero{ grid-template-columns:1fr; } }
+body {
+  background: #faf3e7;
+  color: #111111;
+  font-family: "Open Sans", system-ui, -apple-system, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color: #3366ff;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  margin-top: 2.2rem;
+}
+
+.accent-serif {
+  font-family: "Playfair Display", serif !important;
+  font-style: italic;
+  color: #3366ff;
+}
+
+.subhead {
+  font-weight: 600;
+  color: #5a5a5a;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: .25rem;
+}
+
+.grid {
+  display: grid;
+  gap: 1.2rem;
+}
+
+.grid-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.card-img img,
+.hero img {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+}
+
+.spacer {
+  height: 1rem;
+}
+
+.cta {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1.2rem;
+  box-shadow: 0 6px 30px rgba(0, 0, 0, .06);
+  border-left: 6px solid #3366ff;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 1.2rem;
+  align-items: center;
+}
+
+@media (max-width: 800px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+}
+
 .icon-link img {
-  width: 32px;               /* initial icon size */
+  width: 32px;
   transition: transform 0.3s, filter 0.3s;
   filter: brightness(100%);
 }
 
 .icon-link img:hover {
-  transform: scale(1.2);     /* grows on hover */
+  transform: scale(1.2);
   filter: brightness(120%);
 }
+
 .contact-container {
   max-width: 800px;
   margin: 0 auto;
@@ -39,7 +105,7 @@ h1,h2,h3 { color: $brand-blue; text-transform: uppercase; font-family: "Montserr
   height: 120px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .profile-details {
@@ -58,7 +124,7 @@ h1,h2,h3 { color: $brand-blue; text-transform: uppercase; font-family: "Montserr
 }
 
 .social-icons .icon:hover {
-  color: #0077b5; /* LinkedIn blue by default */
+  color: #0077b5;
 }
 
 .btn {
@@ -81,9 +147,11 @@ h1,h2,h3 { color: $brand-blue; text-transform: uppercase; font-family: "Montserr
   font-style: italic;
   text-align: center;
 }
+
 .grid-1 img {
   transition: transform 0.3s, filter 0.3s;
 }
+
 .grid-1 img:hover {
   transform: scale(1.2);
   filter: brightness(120%);
