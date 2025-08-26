@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Devanshi Goswami"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+      - href: skills.qmd
+        text: Skills
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: default
+    toc: false
+    css: styles.scss
+    include-in-header:
+      text: |
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&family=Playfair+Display:ital,wght@1,600;1,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    markdown: true

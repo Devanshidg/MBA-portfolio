@@ -1,0 +1,20 @@
+---
+format:
+  html:
+    title-block-style: none
+---
+
+# Projects & Case Studies
+
+<div class="card-img">
+  ![](images/rogers.jpg){fig-alt="Rogers Communications chart" caption="Rogers Communications — ratio snapshot" width=50% fig-align="center"}
+</div>
+
+## Rogers Communications Inc.: Ratio Analytics
+Executed robust ratio analysis on Rogers Communications, complemented by a full Retailing DuPont dissection. Deconstructed liquidity, capital, profitability, and housekeeping efficiency metrics to chart corporate strength against prevailing sector benchmarks.
+
+## ProjectLibre Application in Capstone
+Crafted baseline Gantt timelines, hierarchical work breakdown, and margin-interlocking critical path networks within ProjectLibre. Calibrated theoretical constructs of scope, program tempo, and deterministic risk to rigor-ready operational models.
+
+## VueClair Photography Business Model
+Composed a comprehensive plan for a boutique photography outfit targeting corporate clientele and discerning private buyers. Benchmarked premium deliverables, brand architecture, and multi-channel growth trajectories.

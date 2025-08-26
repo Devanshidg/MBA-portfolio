@@ -1,0 +1,21 @@
+---
+format:
+  html:
+    title-block-style: none
+---
+
+# About <span class="accent-serif">Devanshi Goswami</span>
+
+<div class="hero">
+  <div class="card-img"><img src="images/profile.jpg" alt="Devanshi profile"></div>
+  <div>
+Hi, there! My name is **Devanshi Goswami**. I am currently pursuing an MBA at **University Canada West**, blending my fashion design background with expertise in customer service and strategic business planning. Originally from **Jhansi, India**, I moved to **Vancouver** to deepen my knowledge of management, digital transformation, and entrepreneurship.
+
+This portfolio curates my academic projects, practical experiences, and continuously expanding toolkit.
+  </div>
+</div>
+<div class="spacer"></div>
+
+## Focus Areas
+
+<img src="images/focus-areas.png" alt="Focus areas" style="width:100%; border-radius:10px;">

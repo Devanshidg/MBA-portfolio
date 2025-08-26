@@ -1,0 +1,41 @@
+---
+format:
+  html:
+    title-block-style: none
+---
+
+
+# Skills & Certifications
+
+::: {.grid .grid-2}
+
+::: {.card-img}
+![](images/skills1.png){fig-alt="sql" caption="SQL" width=50% fig-align="center"}
+:::
+
+::: {.card-img}
+![](images/skills2.jpg){fig-alt="quarto" caption="Quarto" width=50% fig-align="center"}
+:::
+
+::: {.card-img}
+![](images/skills3.jpg){fig-alt="canva" caption="Canva" width=50% fig-align="center"}
+:::
+
+::: {.card-img}
+![](images/skills4.png){fig-alt="illustrator" caption="Adobe Illustrator" width=30% fig-align="center"}
+:::
+
+:::
+
+
+
+## Core Business Skills
+- Leadership & communication (developed through advising and customer service)
+- Financial & ratio analysis (applied in MBA projects)
+- Project management (ProjectLibre, scheduling, risk assessment)
+- Digital marketing (certified by the Digital Marketing Institute)
+
+## Technical Tools
+- SQL (database queries)
+- Quarto, GitHub, VS Code (technical publishing & version control)
+- Canva & Adobe Illustrator (design and branding)

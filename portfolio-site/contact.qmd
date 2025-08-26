@@ -1,0 +1,30 @@
+---
+format:
+  html:
+    title-block-style: none
+---
+
+# Get in Touch
+
+I’m passionate about operations, brand development, and continuously learning to create meaningful professional impact. Feel free to reach out anytime.
+
+::: {.grid .grid-3 style="justify-items: center; align-items: center; gap: 2rem; margin-top: 2rem;"}
+
+[![](images/linkedin-icon.svg){width=40px style="vertical-align: middle; transition: transform 0.3s; filter: brightness(100%);" 
+onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(120%)';" 
+onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(100%)';"}](https://www.linkedin.com/in/devanshi-goswami-9a7b631bb)  
+**LinkedIn**
+
+[![](images/resume-icon.svg){width=40px style="vertical-align: middle; transition: transform 0.3s; filter: brightness(100%);" 
+onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(120%)';" 
+onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(100%)';"}](https://acrobat.adobe.com/id/urn:aaid:sc:ap:b9569b5a-4a90-44e1-bba5-0fffd60bf989)  
+**Resume**
+
+[![](images/email-icon.svg){width=40px style="vertical-align: middle; transition: transform 0.3s; filter: brightness(100%);"
+onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(120%)';"
+onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(100%)';"}](https://mail.google.com/mail/?view=cm&fs=1&to=devanshigoswami17@gmail.com)  
+**Email**
+
+:::
+
+---

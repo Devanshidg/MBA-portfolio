@@ -1,0 +1,57 @@
+---
+format:
+  html:
+    title-block-style: none
+---
+
+# Resume / CV
+
+::: {.grid .grid-2}
+::: {.card-img}
+![](images/resume_certificate-1.jpg){fig-alt="Certificate 1" caption="Certified Digital Marketing Professional (CDMP)" width=60%}
+:::
+
+::: {.card-img}
+![](images/resume_certificate-2.jpg){fig-alt="Certificate 2" caption="Financial Accounting Certificate" width=60%}
+:::
+:::
+
+## Education
+- **MBA Candidate**, University Canada West, Vancouver, Canada (2024–Present)
+- **Bachelor in Fashion Design**, Footwear Design and Development, Rohtak, India
+
+## Professional Experience
+- **Customer Service Representative – Lindt (Retail)**  
+- **Fashion Advisor / Customer Service Executive – Zara**  
+- **Operations Management – Gravy & More (Cloud Kitchen)**  
+- **Freelance Fashion Designer** – Designed women’s apparel collections
+
+::: {.grid .grid-3}
+::: {.card-img}
+![](images/resume_chart-1.jpg){fig-alt="Analytics chart" caption="Rogers Communications — ratio snapshot"}
+:::
+
+::: {.card-img}
+![](images/resume_chart-2.jpg){fig-alt="Project chart" caption="Project timeline / Gantt sample"}
+:::
+
+::: {.card-img}
+![](images/resume_sample-1.png){fig-alt="Design sample" caption="Design / mockup sample"}
+:::
+:::
+
+## Skills
+- **Business Analysis & Strategy**
+- **Financial Analysis** (Ratio Analysis, DuPont)
+- **Project Management** (ProjectLibre, Gantt charts)
+- **Digital Marketing** (Certified by Digital Marketing Institute)
+- **Tools:** SQL, Quarto, GitHub, VS Code, Canva, Adobe Illustrator
+- **Languages:** English, Hindi
+
+---
+
+## Resume(pdf)
+
+::: {.grid .grid-1 style="justify-items: start; align-items: center; gap: 1rem;"}
+[![](images/resume-icon.svg){width=50px style="transition: transform 0.3s; filter: brightness(100%);"}](https://acrobat.adobe.com/id/urn:aaid:sc:ap:b9569b5a-4a90-44e1-bba5-0fffd60bf989)
+:::
